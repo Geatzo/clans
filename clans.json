@@ -449,4 +449,13 @@
         "logo": "https://user-images.githubusercontent.com/2464813/36338269-5c244fb6-13e5-11e8-8980-52c780da1469.png",
         "website": "http://elitesquad-ac.forumeiros.com/"
     }
-]
+  {
+     "id": "icy",
+        "name": "ICY",
+        "fullName": "icY Gang",
+        "tags": [
+            ".icY*|"
+        ],
+        "logo": "https://ibb.co/eESCVJ",
+        "website": "http://icyclan.proboards.com"
+    },
